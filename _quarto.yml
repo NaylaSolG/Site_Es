@@ -19,7 +19,7 @@ website:
 
     right:
       - text: "EN 🌐"
-        href: es/index.html
+        href: https://naylasolg.github.io/Site_Es/
       - text: "Contacto"
         menu: 
           - text: "Email"
