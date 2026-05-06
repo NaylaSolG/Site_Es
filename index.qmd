@@ -1,0 +1,12 @@
+![](banner_es.png)
+
+#### **Socióloga y analista de datos.**
+
+Soy socióloga UBA, analista de datos y docente en UNSAM.
+
+
+-   [Cs. sociales computacionales](https://naylasolg.github.io/Site_Es/codigo.html)
+
+-   [Docencia](https://naylasolg.github.io/Site_Es/docencia.html)
+
+-   [Encuestas](https://naylasolg.github.io/Site_Es/encuestas.html)

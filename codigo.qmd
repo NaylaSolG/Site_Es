@@ -1,0 +1,5 @@
+# Cs. Sociales Computacionales
+
+[SICSS](https://sicss.io/2026/buenos-aires/people) Summer Institutes in Computational Social Science 2026 - Argentina
+
+[Modelización](https://github.com/NaylaSolG/Model-Atlas-AmLatinayCaribeCAF) Atlas de Gobiernos Locales y Regionales de América Latina y el Caribe (CAF - Banco de Desarrollo de América Latina y el Caribe)

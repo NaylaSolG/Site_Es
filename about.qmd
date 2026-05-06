@@ -1,0 +1,13 @@
+# **Sobre mí**
+
+## **Bio**
+
+Soy docente de grado y posgrado en la Universidad Nacional de San Martín, también formo parte del laboratorio en Cs. Sociales Computacionales [Factor\~Data](https://factor-data.netlify.app/) y del [Centro de Estudios de la Sociedad Digital](https://www.unsam.edu.ar/escuelas/eidaes/cesdi/), de la Escuela Interdisciplinaria de Altos Estudios Sociales.
+
+Mayormente trabajo con R, aunque inicialmente también me formé con Python y SQL en el Diploma de Análisis de Datos y Políticas Públicas de la Universidad de Buenos Aires.
+
+Anteriormente, me desempeñé en el Servicio Meteorológico Nacional y la Dirección de Encuestas de Gastos e Ingresos de los Hogares del Instituto Nacional de Estadística y Censos.
+
+## **CV**
+
+[Descargar CV](https://naylasolg.github.io/Site_Es/CV.pdf)

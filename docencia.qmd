@@ -1,0 +1,19 @@
+# **Docencia**
+
+## **Diplomatura en Cs. Sociales Computacionales y Humanidades Digitales**
+
+Jefa de trabajos prácticos en Diploma de posgrado - UNSAM
+M1: Introducción a la Ciencia de Datos
+M2: Visualización de datos
+M3: Introducción al modelado de datos
+M4: Introducción a los fundamentos de Machine Learning
+
+[Repositorio](https://github.com/DCSCyHD)
+
+## **Metodologías cuantitativas**
+
+Jefa de trabajos prácticos en tres materias de grado para las carreras Antropología y Sociología de la Universidad Nacional de San Martín.
+
+[Repositorio](https://github.com/NaylaSolG/Metodo_B) Metodologías cuantitativas
+
+[Repositorio](https://gefero.github.io/factor_data_track_CSS/M1/M1.html) Track en métodos cuantitativos y Cs. Sociales Computacionales
