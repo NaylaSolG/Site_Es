@@ -10,4 +10,6 @@ Anteriormente, me desempeñé en el Servicio Meteorológico Nacional y la Direcc
 
 ## **CV**
 
-[Descargar CV](https://naylasolg.github.io/Site_Es/CV.pdf)
+[Descargar CV - Harvard](./CV_H.pdf)   
+
+[Descargar CV - C/Foto](./CV_F.pdf)
