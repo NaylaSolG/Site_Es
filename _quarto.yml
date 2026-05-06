@@ -16,16 +16,16 @@ website:
         text: Docencia
       - href: encuestas.qmd
         text: Encuestas
-     right:
+
+    right:
       - text: "EN 🌐"
-        href: /es/index.html
+        href: es/index.html
       - text: "Contacto"
         menu: 
           - text: "Email"
             href: mailto:ngarcilazo@unsam.edu.ar
-          - text: "Linkedin"
+          - text: "LinkedIn"
             href: https://www.linkedin.com/in/nayla-sol-garcilazo/
-
 
 format:
   html:
