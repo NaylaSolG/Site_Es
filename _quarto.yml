@@ -17,16 +17,19 @@ website:
       - href: encuestas.qmd
         text: Encuestas
 
+
+
     right:
       - text: "EN 🌐"
-        href: https://naylasolg.github.io/Site_En/
+        href: "https://naylasolg.github.io/Site_En/"
+        target: _blank
       - text: "Contacto"
         menu: 
           - text: "Email"
             href: mailto:ngarcilazo@unsam.edu.ar
           - text: "LinkedIn"
             href: https://www.linkedin.com/in/nayla-sol-garcilazo/
-
+            target: _blank
 format:
   html:
     theme: minty
