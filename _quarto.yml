@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Nayla Sol Garcilazo"
+  favicon: favicon.png
   navbar:
     left:
       - href: index.qmd
